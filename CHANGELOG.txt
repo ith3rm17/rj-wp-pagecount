@@ -1,0 +1,12 @@
+
+
+1.0.1
+-increment only if not admin
+-made functions static
+
+1.0
+-no json yet
+-import from pvc at install
+-dashboard enabled max 3 desc per day
+-single table for count
+-no frontend views yet, just backend views
